@@ -89,8 +89,8 @@ public class Player {
             float mouseDX = Mouse.getDX() * 0.16f;
             float mouseDY = Mouse.getDY() * 0.16f;
 
-            camera.rotateY(mouseDX);
-            camera.rotateX(-mouseDY);
+            camera.rotateYaw(mouseDX);
+            camera.rotatePitch(-mouseDY);
         }
         if (Mouse.isButtonDown(0)) {
             Mouse.setGrabbed(true);
