@@ -29,6 +29,10 @@ public class Camera {
         initProjection();
     }
 
+    public Vector3f getPosition() {
+        return position;
+    }
+    
     public void initProjection() {
         Matrix4f projectionMatrix = new Matrix4f();
         float yScale = (float) (1f / Math.tan(Math.toRadians(fov / 2f)));

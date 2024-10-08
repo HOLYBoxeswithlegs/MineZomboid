@@ -24,6 +24,6 @@
 	<classpathentry kind="lib" path="C:/Users/MartyVlogs/Documents/lwjgl/lzma.jar"/>
 	<classpathentry kind="lib" path="C:/Users/MartyVlogs/Documents/lwjgl/substance-7.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/MartyVlogs/Documents/lwjgl/trident-7.2.1.jar"/>
-	<classpathentry kind="lib" path="H:/Salad/Games/Minecraft/MCP22/mcp090/retromcp/MineZomboid/add/Textures.jar"/>
+	<classpathentry kind="lib" path="H:/Salad/Games/Minecraft/MCP22/mcp090/retromcp/MineZomboid/add/Assets.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

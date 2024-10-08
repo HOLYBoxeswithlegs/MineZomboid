@@ -1,0 +1,4 @@
+position=1,-1,-4
+size=1,1,2
+rotation=90,0,90
+texture=assets/textures/grass.png
